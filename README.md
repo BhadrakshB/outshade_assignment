@@ -1,16 +1,46 @@
-# outshade_assignment
+# Flutter Assignment for Outshade
 
-A new Flutter project.
+This Flutter assignment was created by Bhadraksh Bhargava for Outshade. The project includes the implementation of Hive and Provider Package. 
 
-## Getting Started
+The file structure of the project has been organized efficiently to make the code easy to read and navigate. 
 
-This project is a starting point for a Flutter application.
+The assignment has been completed as per the requirements specified by Outshade. It includes all the necessary features and functionalities that were outlined in the project description.
 
-A few resources to get you started if this is your first Flutter project:
+## Project Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://user-images.githubusercontent.com/97405155/235210781-55d92bda-da0b-45e0-8690-c497dbc85de1.mp4
+
+
+
+## Features
+
+- Usage of Hive for database
+- Efficient File Structure
+- Provider Package Implementation
+
+## How to Use
+
+To use this Flutter assignment, follow these steps:
+
+1. Clone the repository
+2. Open the project in an IDE of your choice
+3. Run the app on an emulator or physical device
+
+## Dependencies
+
+The project uses the following dependencies:
+
+ - provider: ^6.0.5
+ - hive: ^2.2.3
+ - hive_flutter: ^1.1.0
+ - path_provider: ^2.0.14
+
+Make sure to have these dependencies installed in your Flutter environment before running the project.
+
+## Credits
+
+This Flutter assignment was created by Bhadraksh Bhargava. 
+
+Special thanks to Outshade for providing the opportunity to work on this assignment.
